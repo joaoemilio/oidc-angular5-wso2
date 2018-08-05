@@ -13,3 +13,4 @@ Quickstart App with @covalent packages
 * Install Node packages `yarn i`
 * Update Webdriver `webdriver-manager update` and `./node_modules/.bin/webdriver-manager update`
 * Run local build `ng serve`
+# oidc-angular5-wso2
